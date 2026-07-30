@@ -1,0 +1,29 @@
+.policy-section{background:#e8eddc}
+.policy-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.policy-card{min-height:360px;padding:26px;background:#fff;color:inherit;text-decoration:none;border:1px solid #cbd1bc;display:flex;flex-direction:column;transition:transform .2s,box-shadow .2s}
+.policy-card:hover{transform:translateY(-4px);box-shadow:0 18px 40px #31401a18}
+.policy-card:nth-child(2),.policy-card:nth-child(5){background:var(--mint)}
+.policy-card:nth-child(3),.policy-card:nth-child(6){background:var(--sand)}
+.policy-card-top{display:flex;justify-content:space-between;gap:15px;font-size:11px;font-weight:900}
+.policy-card-top b{color:#587c17;text-align:right}
+.policy-card>small{margin-top:34px;color:#6d762e;font-weight:900;letter-spacing:.1em}
+.policy-card h3{font-size:23px;line-height:1.35;margin:12px 0}
+.policy-card p{font-size:14px;line-height:1.7;color:#5f6456}
+.policy-card footer{margin-top:auto;padding:18px 0 0;border-top:1px solid #1112}
+.policy-card footer b{color:#5d8419}
+.policy-note{margin:24px 0 0;font-size:12px;color:#686e5e}
+.policy-kicker{display:flex;gap:12px;align-items:center}
+.policy-kicker span,.policy-kicker b{padding:8px 12px;border:1px solid #ffffff35;font-size:11px}
+.policy-kicker b{color:var(--lime)}
+.source-link{display:inline-block;margin-top:26px;color:var(--ink);background:var(--lime);padding:14px 18px;text-decoration:none;font-weight:900}
+.policy-facts{display:grid;grid-template-columns:.6fr .6fr 1.8fr;border:1px solid var(--line);border-top:0;background:#fff}
+.policy-facts>div{padding:24px 28px;border-right:1px solid var(--line)}
+.policy-facts>div:last-child{border:0}
+.policy-facts small{display:block;color:#74796b;margin-bottom:8px}
+.policy-facts strong{line-height:1.5}
+.policy-detail-grid .detail-card small{font-weight:900;color:#6b8f24;letter-spacing:.1em}
+.policy-detail-grid .action-card{background:var(--mint)}
+.disclaimer-card{background:var(--sand)}
+.disclaimer-card p{line-height:1.75;color:#5f6456}
+.disclaimer-card a{display:inline-block;margin-top:20px;color:inherit;font-weight:900}
+@media(max-width:800px){.policy-grid,.policy-facts{grid-template-columns:1fr}.policy-facts>div{border-right:0;border-bottom:1px solid var(--line)}}
