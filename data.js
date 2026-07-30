@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.07.24",
+    "market": "中国 / 北京",
+    "kind": "国内媒体",
+    "title": "北京 14 家市属公园将部署 72 台园林服务机器人",
+    "summary": "机器人覆盖清洁清扫、智慧巡检、绿化养护、生态监测等六类场景，园林机器人从试点走向多公园规模化运行。",
+    "source": "人民网北京频道",
+    "url": "https://bj.people.com.cn/n2/2026/0724/c14540-41648681.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.07.21",
     "market": "全球",
     "kind": "海外媒体",
@@ -8,6 +18,26 @@ const STORIES=[
     "source": "TechRadar",
     "url": "https://www.techradar.com/home/smart-home/5-questions-to-ask-before-choosing-a-robot-lawn-mower-according-to-a-lawnbot-exec",
     "tone": "lime"
+  },
+  {
+    "date": "2026.07.20",
+    "market": "德国 / 欧洲",
+    "kind": "品牌新闻",
+    "title": "ANTHBOT 发布 M9 Pro 四融合导航无边界割草机器人",
+    "summary": "新品融合 360° LiDAR、RTK、NetRTK 与双目 AI 视觉，面向 1,000 平方米以内复杂庭院并支持最多 32 个割草区域。",
+    "source": "ANTHBOT / PR Newswire",
+    "url": "https://www.prnewswire.co.uk/news-releases/anthbot-m9-pro-launches-with-holosense-quad-fusion-navigation-for-easy-wire-free-lawn-care-302828428.html",
+    "tone": "lime"
+  },
+  {
+    "date": "2026.07.10",
+    "market": "中国",
+    "kind": "品牌新闻",
+    "title": "苏美达发布 AI 视觉无边界割草机器人",
+    "summary": "新品采用 AI 视觉与无边界作业方案，面向物业庭院、市政园林、政企园区和运动场馆等家用与商用场景。",
+    "source": "苏美达股份",
+    "url": "https://www.sumec.com/news/ywzx/202607/t20260713_646768.html",
+    "tone": "sand"
   },
   {
     "date": "2026.07.08",
