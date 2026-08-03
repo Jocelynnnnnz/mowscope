@@ -8,3 +8,14 @@ STORIES.unshift({
   url: "https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf",
   tone: "blue"
 });
+
+STORIES.unshift({
+  date: "2026.07.30",
+  market: "全球 / 欧美",
+  kind: "海外媒体",
+  title: "割草机器人走向主流：竞争焦点转向贴边、复杂地形与零安装",
+  summary: "TechRadar 访谈显示，行业正从单一免埋线转向贴边修剪、全轮驱动、复杂地形适应与多传感器融合；欧洲更关注小庭院精细作业，美国更强调大草坪覆盖效率。",
+  source: "TechRadar",
+  url: "https://www.techradar.com/home/smart-home/maybe-laziness-is-the-best-way-to-improve-the-technology-i-chatted-to-a-lawnbot-exec-about-the-tech-and-trends-taking-robot-mowers-mainstream",
+  tone: "lime"
+});
