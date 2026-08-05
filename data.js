@@ -210,16 +210,6 @@ const STORIES=[
     "tone": "mint"
   },
   {
-    "date": "2026.04.20",
-    "market": "全球",
-    "kind": "品牌新闻",
-    "title": "无边界割草机器人进入规模化用户阶段",
-    "summary": "品牌公布全球用户规模并强调英国等成熟园艺市场对可靠、低干预草坪维护的需求。",
-    "source": "Segway Navimow / Newswire",
-    "url": "https://www.newswire.ca/news-releases/segway-navimow-sets-the-industry-standard-as-the-world-s-no-1-brand-in-wire-free-robotic-lawn-mower-retail-volume-sales-for-two-consecutive-years-847985127.html",
-    "tone": "sand"
-  },
-  {
     "date": "2026.04.15",
     "market": "德国 / 欧洲",
     "kind": "品牌新闻",
