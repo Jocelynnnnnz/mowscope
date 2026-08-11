@@ -30,6 +30,16 @@ const STORIES=[
     "tone": "lime"
   },
   {
+    "date": "2026.07.17",
+    "market": "澳大利亚",
+    "kind": "海外媒体",
+    "title": "ECOVACS 两款割草机器人进入澳大利亚市场",
+    "summary": "GOAT A2000 LiDAR PRO 与 GOAT O600 RTK 于 8 月 4 日在澳大利亚上市，分别覆盖大面积双激光雷达与中小草坪 RTK 路线，反映澳新市场的产品分层正在加快。",
+    "source": "BTTR Reviews",
+    "url": "https://www.bttr.reviews/ecovacs-just-built-a-robot-army-for-your-backyard/",
+    "tone": "blue"
+  },
+  {
     "date": "2026.07.10",
     "market": "中国",
     "kind": "品牌新闻",
