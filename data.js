@@ -238,16 +238,6 @@ const STORIES=[
     "source": "LOPKIN / PR Newswire",
     "url": "https://www.prnewswire.com/news-releases/lopkin-showcases-wire-free-robotic-lawn-mowers-at-nhs-2026-accelerating-north-america-expansion-302732594.html",
     "tone": "lime"
-  },
-  {
-    "date": "2026.02.09",
-    "market": "全球",
-    "kind": "海外媒体",
-    "title": "“免埋线”之后，割草机器人的竞争焦点是什么？",
-    "summary": "行业关注点正从单一免埋线能力转向复杂环境下的自主适应、软件体验和低干预运行。",
-    "source": "TechRadar",
-    "url": "https://www.techradar.com/home/smart-home/segway-navimow-ceo-on-the-changing-focus-of-robot-mowers",
-    "tone": "mint"
   }
 ];
 const SERVICES=[
