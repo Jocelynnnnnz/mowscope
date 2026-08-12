@@ -110,6 +110,16 @@ const STORIES=[
     "tone": "sand"
   },
   {
+    "date": "2026.06.16",
+    "market": "日本",
+    "kind": "机器人产业",
+    "title": "Allynav 发布 Taurus80E 第二代商用自律草刈机器人",
+    "summary": "第二代面向农业、林业、光伏设施、道路边坡和公园等场景，重点提升坡地安全、电控可靠性、防尘防水、故障诊断、履带耐久与维护便利性，并于 7 月 1 日在日本开售。",
+    "source": "AllynavAG / PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000168106.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.06.15",
     "market": "欧洲",
     "kind": "品牌新闻",
@@ -228,6 +238,16 @@ const STORIES=[
     "source": "Greenworks / PR Newswire",
     "url": "https://www.prnewswire.co.uk/news-releases/a-new-era-for-european-gardens-greenworks-debuts-the-aimowbot-c-series-an-ai-powered-wire-free-mowing-revolution-302743345.html",
     "tone": "blue"
+  },
+  {
+    "date": "2026.04.03",
+    "market": "德国 / 欧洲",
+    "kind": "品牌新闻",
+    "title": "GOALKER Unicut H1 与 H3 Pro 从 CES 概念走向市场",
+    "summary": "Unicut 系列融合 RTK、视觉与 ToF 感知，可识别 300 多类障碍物；H1 面向 1,500 平方米草坪正式零售，H3 Pro 面向 1,200 平方米草坪启动众筹。",
+    "source": "GOALKER / PR Newswire",
+    "url": "https://www.prnewswire.com/de/pressemitteilungen/from-ces-to-market-goalker-launches-unicut-series-online-as-h3-pro-hits-kickstarter-302733606.html",
+    "tone": "mint"
   },
   {
     "date": "2026.04.02",
