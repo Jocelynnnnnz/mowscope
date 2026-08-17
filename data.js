@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.08.02",
+    "market": "澳大利亚",
+    "kind": "品牌新闻",
+    "title": "GOKO 携 M6 与三合一 X5 亮相澳大利亚园林装备展",
+    "summary": "GOKO 在黄金海岸 LLEE 2026 展示四驱 M6 割草机器人，并预览集割草、扫雪和拖拽于一体的 X5 商用遥控设备，面向复杂地形用户与澳大利亚渠道伙伴。",
+    "source": "GOKO / GlobeNewswire",
+    "url": "https://finance.yahoo.com/technology/articles/goko-showcase-award-winning-m6-061700438.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.07.24",
     "market": "中国 / 北京",
     "kind": "国内媒体",
