@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.08.03",
+    "market": "美国 / 全球",
+    "kind": "海外媒体",
+    "title": "WIRED 更新 2026 割草机器人实测榜单：免埋线产品进入可用阶段",
+    "summary": "WIRED 基于三年实测更新推荐，覆盖 TerraMow、Mammotion、ANTHBOT 与 Mowrator 等产品，并指出 RTK、视觉导航和复杂地形能力已让割草机器人从高价尝鲜品逐步走向实际可选。",
+    "source": "WIRED",
+    "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+    "tone": "lime"
+  },
+  {
     "date": "2026.08.02",
     "market": "澳大利亚",
     "kind": "品牌新闻",
@@ -258,16 +268,6 @@ const STORIES=[
     "source": "GOALKER / PR Newswire",
     "url": "https://www.prnewswire.com/de/pressemitteilungen/from-ces-to-market-goalker-launches-unicut-series-online-as-h3-pro-hits-kickstarter-302733606.html",
     "tone": "mint"
-  },
-  {
-    "date": "2026.04.02",
-    "market": "北美",
-    "kind": "机器人产业",
-    "title": "LOPKIN 携无边界产品进入北美专业园林展会",
-    "summary": "RTK-GPS 与视觉惯导融合方案在国家五金展亮相，品牌以展会和渠道为北美扩张入口。",
-    "source": "LOPKIN / PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/lopkin-showcases-wire-free-robotic-lawn-mowers-at-nhs-2026-accelerating-north-america-expansion-302732594.html",
-    "tone": "lime"
   }
 ];
 const SERVICES=[
