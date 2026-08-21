@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.08.20",
+    "market": "美国",
+    "kind": "品牌新闻",
+    "title": "Husqvarna 机器人割草机进入美国高尔夫协会赛事维护场景",
+    "summary": "在 2026 美国高级女子公开赛期间，Barton Hills Country Club 使用约 30 台机器人割草机维护球道与长草区，其中包括 Automower 580L EPOS 与 535 AWD EPOS，展示商用自主割草在高标准草坪场景中的规模化应用。",
+    "source": "Husqvarna / PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/husqvarna-brings-autonomous-mowing-to-the-2026-us-senior-womens-open-302856563.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.08.03",
     "market": "美国 / 全球",
     "kind": "海外媒体",
@@ -258,16 +268,6 @@ const STORIES=[
     "source": "Greenworks / PR Newswire",
     "url": "https://www.prnewswire.co.uk/news-releases/a-new-era-for-european-gardens-greenworks-debuts-the-aimowbot-c-series-an-ai-powered-wire-free-mowing-revolution-302743345.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.04.03",
-    "market": "德国 / 欧洲",
-    "kind": "品牌新闻",
-    "title": "GOALKER Unicut H1 与 H3 Pro 从 CES 概念走向市场",
-    "summary": "Unicut 系列融合 RTK、视觉与 ToF 感知，可识别 300 多类障碍物；H1 面向 1,500 平方米草坪正式零售，H3 Pro 面向 1,200 平方米草坪启动众筹。",
-    "source": "GOALKER / PR Newswire",
-    "url": "https://www.prnewswire.com/de/pressemitteilungen/from-ces-to-market-goalker-launches-unicut-series-online-as-h3-pro-hits-kickstarter-302733606.html",
-    "tone": "mint"
   }
 ];
 const SERVICES=[
