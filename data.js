@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.08.27",
+    "market": "德国 / 全球",
+    "kind": "品牌新闻",
+    "title": "Sunseeker 将在 IFA 2026 预展 2027 智能庭院产品线",
+    "summary": "Sunseeker 宣布将在 9 月 4—8 日的柏林 IFA 展示 2027 产品阵容与 Smart Garden 愿景，重点回应安装简化、地图与日程自动调整、环境变化适应及割草以外的庭院作业需求。",
+    "source": "Sunseeker Robotics",
+    "url": "https://sunseekertech.com/global/news/what-comes-after-the-robotic-lawn-mower-sunseeker-to-preview-the-future-of-smart-garden-care-at-ifa-2026",
+    "tone": "mint"
+  },
+  {
     "date": "2026.08.20",
     "market": "美国",
     "kind": "品牌新闻",
@@ -7,6 +17,16 @@ const STORIES=[
     "summary": "在 2026 美国高级女子公开赛期间，Barton Hills Country Club 使用约 30 台机器人割草机维护球道与长草区，其中包括 Automower 580L EPOS 与 535 AWD EPOS，展示商用自主割草在高标准草坪场景中的规模化应用。",
     "source": "Husqvarna / PR Newswire",
     "url": "https://www.prnewswire.com/news-releases/husqvarna-brings-autonomous-mowing-to-the-2026-us-senior-womens-open-302856563.html",
+    "tone": "blue"
+  },
+  {
+    "date": "2026.08.18",
+    "market": "澳大利亚",
+    "kind": "品牌新闻",
+    "title": "GOKO M6 在澳大利亚开放预订，首批限量 300 台",
+    "summary": "GOKO 宣布 M6 于 8 月 17 日在澳大利亚官网开放预订；产品采用四轮驱动与免埋线导航，支持 25–100 毫米割草高度，并以 300 台限量首发优惠推进当地市场验证。",
+    "source": "GOKO / PR Newswire",
+    "url": "https://en.prnasia.com/releases/apac/goko-m6-robotic-lawn-mower-opens-for-pre-order-in-australia-on-17-august-544302.shtml",
     "tone": "blue"
   },
   {
@@ -18,16 +38,6 @@ const STORIES=[
     "source": "WIRED",
     "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
     "tone": "lime"
-  },
-  {
-    "date": "2026.08.18",
-    "market": "澳大利亚",
-    "kind": "品牌新闻",
-    "title": "GOKO M6 在澳大利亚开放预订，首批限量 300 台",
-    "summary": "GOKO 宣布 M6 于 8 月 17 日在澳大利亚官网开放预订；产品采用四轮驱动与免埋线导航，支持 25–100 毫米割草高度，并以 300 台限量首发优惠推进当地市场验证。",
-    "source": "GOKO / PR Newswire",
-    "url": "https://en.prnasia.com/releases/apac/goko-m6-robotic-lawn-mower-opens-for-pre-order-in-australia-on-17-august-544302.shtml",
-    "tone": "blue"
   },
   {
     "date": "2026.07.24",
@@ -118,16 +128,6 @@ const STORIES=[
     "source": "ANTHBOT / PR Newswire",
     "url": "https://www.prnewswire.com/news-releases/anthbot-brings-stadium-inspired-lawn-care-home-with-prime-day-savings-on-m-series-robot-lawn-mowers-302807293.html",
     "tone": "lime"
-  },
-  {
-    "date": "2026.06.22",
-    "market": "美国",
-    "kind": "品牌新闻",
-    "title": "Mammotion 以多品类户外机器人组合参与旺季促销",
-    "summary": "割草机器人与泳池机器人被纳入同一智能户外产品组合，反映品牌从单品向场景生态延伸。",
-    "source": "Mammotion / PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/save-big-on-smart-outdoor-robotics-with-mammotion-prime-day-2026-deals-302806224.html",
-    "tone": "mint"
   },
   {
     "date": "2026.06.22",
