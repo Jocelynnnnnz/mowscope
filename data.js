@@ -10,6 +10,16 @@ const STORIES=[
     "tone": "mint"
   },
   {
+    "date": "2026.08.26",
+    "market": "美国",
+    "kind": "海外媒体",
+    "title": "Navimow i215 两个月实测：草坪尺度比旗舰配置更重要",
+    "summary": "Tom’s Guide 分享 i215 庭院实测，介绍 LiDAR 与视觉导航的使用体验；作者由 X4 换用更适合其小草坪的 i215，强调选型应结合草坪面积与坡度，而非只追求旗舰规格。",
+    "source": "Tom’s Guide",
+    "url": "https://www.tomsguide.com/home/lawn-care/segway-navimow-i215-review",
+    "tone": "lime"
+  },
+  {
     "date": "2026.08.20",
     "market": "美国",
     "kind": "品牌新闻",
@@ -118,16 +128,6 @@ const STORIES=[
     "source": "PR Newswire",
     "url": "https://www.prnewswire.com/news-releases/dck-showcases-battery-powered-and-smart-garden-care-solutions-at-spogagafa-2026-302809176.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.06.23",
-    "market": "欧洲 / 美国",
-    "kind": "品牌新闻",
-    "title": "ANTHBOT 借体育合作强化欧美零售市场触达",
-    "summary": "品牌在欧洲与美国同步促销，并强调其在德国电商与欧洲专业零售网络中的渠道覆盖。",
-    "source": "ANTHBOT / PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/anthbot-brings-stadium-inspired-lawn-care-home-with-prime-day-savings-on-m-series-robot-lawn-mowers-302807293.html",
-    "tone": "lime"
   },
   {
     "date": "2026.06.22",
