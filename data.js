@@ -1,5 +1,25 @@
 const STORIES=[
   {
+    "date": "2026.08.31",
+    "market": "德国 / 全球",
+    "kind": "机器人产业",
+    "title": "Yarbo M 系列最终版将在 IFA 2026 首次公开展示",
+    "summary": "Yarbo 宣布模块化庭院机器人 M 系列将由 CES 原型进入最终产品阶段，并在柏林展示割草、除雪与收集模块；后续规划还包括修剪与智能辅助模块。",
+    "source": "Yarbo / PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/yarbo-brings-the-m-series-to-life-at-ifa-2026-from-ces-prototype-to-real-product-in-your-hands-302860165.html",
+    "tone": "mint"
+  },
+  {
+    "date": "2026.08.30",
+    "market": "德国 / 欧洲",
+    "kind": "品牌新闻",
+    "title": "XcanMow Mix 2000 将在 IFA 2026 完成欧洲首秀",
+    "summary": "Xcanbot 将在柏林展示 Mix 2000，产品采用 LiDAR 与相机视觉融合，不依赖边界线、RTK 天线或基站；品牌宣称其可自动建图，并面向树荫和建筑遮挡环境保持定位。",
+    "source": "Xcanbot / Presseportal",
+    "url": "https://www.presseportal.de/en/pm/23141/6342198",
+    "tone": "lime"
+  },
+  {
     "date": "2026.08.27",
     "market": "德国 / 全球",
     "kind": "品牌新闻",
@@ -100,16 +120,6 @@ const STORIES=[
     "tone": "sand"
   },
   {
-    "date": "2026.07.08",
-    "market": "全球",
-    "kind": "品牌新闻",
-    "title": "Navimow H2 与 X4 获得两项红点设计奖",
-    "summary": "产品设计继续围绕复杂庭院、大面积草坪与低干预体验展开，工业设计成为高端化的重要表达。",
-    "source": "Segway Navimow",
-    "url": "https://navimow.com/blogs/newsroom/navimow-wins-two-red-dot-design-awards",
-    "tone": "mint"
-  },
-  {
     "date": "2026.06.26",
     "market": "中国 / 全球",
     "kind": "公众号精选",
@@ -198,16 +208,6 @@ const STORIES=[
     "source": "每日经济新闻",
     "url": "https://www.nbd.com.cn/articles/2026-05-25/4407312.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.05.21",
-    "market": "全球",
-    "kind": "品牌新闻",
-    "title": "Navimow 公布无边界产品全球用户与市场进展",
-    "summary": "超过 40 万用户与连续两年的市场排名主张，显示免埋线产品正从新技术转向规模化品类。",
-    "source": "Segway Navimow",
-    "url": "https://navimow.com/blogs/newsroom/navimow-named-worlds-number-one-robot-lawn-mower",
-    "tone": "lime"
   },
   {
     "date": "2026.05.14",
