@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.09.01",
+    "market": "中国 / 全球",
+    "kind": "机器人产业",
+    "title": "普渡机器人发布 GT3、GT5 与 GT7 商用割草机器人系列",
+    "summary": "GT3 面向碎片化商业场地并兼顾割草与轻度清扫，GT5 以 60 英寸割幅服务大面积草坪，GT7 采用三联滚刀并融合 RTK、LiDAR 与视觉，面向高尔夫球场和专业运动草坪。",
+    "source": "Pudu Robotics / PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/pudu-robotics-launches-pudu-gt-series-a-three-model-lineup-of-commercial-robotic-mowers-for-professional-grounds-and-turf-management-302866160.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.08.31",
     "market": "德国 / 全球",
     "kind": "机器人产业",
@@ -157,16 +167,6 @@ const STORIES=[
     "summary": "第二代面向农业、林业、光伏设施、道路边坡和公园等场景，重点提升坡地安全、电控可靠性、防尘防水、故障诊断、履带耐久与维护便利性，并于 7 月 1 日在日本开售。",
     "source": "AllynavAG / PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000025.000168106.html",
-    "tone": "blue"
-  },
-  {
-    "date": "2026.06.15",
-    "market": "欧洲",
-    "kind": "品牌新闻",
-    "title": "MOVA 割草机器人获得 2026 红点设计奖",
-    "summary": "LiDAR、双目视觉、全轮驱动与复杂坡地能力成为获奖产品的主要差异化组合。",
-    "source": "MOVA / Newswire",
-    "url": "https://www.newswire.ca/news-releases/mova-claims-2026-red-dot-design-award-for-smart-robotic-lawn-mower-innovation-897552777.html",
     "tone": "blue"
   },
   {
