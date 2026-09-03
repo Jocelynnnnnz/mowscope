@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.09.02",
+    "market": "美国",
+    "kind": "海外媒体",
+    "title": "Scythe M.52 在美国 22 英亩园区投入商用割草",
+    "summary": "美国园林服务商 Diamond Landscapes 在 WKYT 园区部署 Scythe M.52，以缓解用工压力并让人员转向花坛和除草等精细作业；设备使用摄像头与定位传感器自主作业。",
+    "source": "WKYT",
+    "url": "https://www.wkyt.com/2026/09/02/robotic-mowers-take-over-lawn-care-wkyts-sprawling-campus/",
+    "tone": "sand"
+  },
+  {
     "date": "2026.09.01",
     "market": "中国 / 全球",
     "kind": "机器人产业",
@@ -148,16 +158,6 @@ const STORIES=[
     "source": "PR Newswire",
     "url": "https://www.prnewswire.com/news-releases/dck-showcases-battery-powered-and-smart-garden-care-solutions-at-spogagafa-2026-302809176.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.06.22",
-    "market": "英国",
-    "kind": "海外媒体",
-    "title": "消费者为什么会从传统割草机升级到机器人？",
-    "summary": "便利性、长期成本、噪声、直接排放与草坪维护方式共同影响消费者的升级决策。",
-    "source": "Ideal Home",
-    "url": "https://www.idealhome.co.uk/garden/garden-tools/lawn-mowers-vs-robot-lawn-mowers",
-    "tone": "sand"
   },
   {
     "date": "2026.06.16",
