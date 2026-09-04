@@ -1,5 +1,35 @@
 const STORIES=[
   {
+    "date": "2026.09.03",
+    "market": "德国 / 全球",
+    "kind": "品牌新闻",
+    "title": "MAMMOTION 在 IFA 2026 发布 LUBA 4 AWD 与商用 Maston",
+    "summary": "LUBA 4 AWD 作为新一代旗舰机型采用模块化快拆设计，便于维护与升级；面向专业场景的 Maston 商用割草机器人同期亮相，品牌并预览 2027 产品阵容。",
+    "source": "MAMMOTION / PR Newswire",
+    "url": "https://en.prnasia.com/releases/global/mammotion-pushes-robotic-lawn-mowing-to-the-edge-for-homeowners-and-professionals-at-ifa-2026-546409.shtml",
+    "tone": "lime"
+  },
+  {
+    "date": "2026.09.03",
+    "market": "德国 / 欧洲",
+    "kind": "品牌新闻",
+    "title": "Navimow H5 Pro 以可伸缩刀盘推进零边缘修剪",
+    "summary": "Navimow 在 IFA 2026 发布 H5 Pro，EdgeMaestro 可伸缩割草臂面向墙边和草坪边缘减少漏割；产品还结合 AI 导航与热传感器，强化夜间刺猬防护。",
+    "source": "Navimow / PR Newswire",
+    "url": "https://en.prnasia.com/releases/apac/breakthrough-in-garden-care-navimow-redefines-the-edge-cutting-experience-with-h5-pro-at-ifa-2026-546344.shtml",
+    "tone": "blue"
+  },
+  {
+    "date": "2026.09.03",
+    "market": "德国 / 欧洲",
+    "kind": "海外媒体",
+    "title": "Anker 首款割草机器人 S2 Max 计划进入欧洲市场",
+    "summary": "西班牙媒体在 IFA 2026 报道，Anker Robot Lawn Mower S2 Max 采用四轮驱动并主打免边界线、免 RTK 基站方案，计划于 2027 年 5 月在欧洲上市；最终规格与售价仍待品牌进一步确认。",
+    "source": "Cinco Días / El País",
+    "url": "https://cincodias.elpais.com/smartlife/gadgets/2026-09-03/anker-quiere-conquistar-tu-hogar-con-su-ecosistema-de-ia-camaras-4k-robots-y-mucho-mas.html",
+    "tone": "sand"
+  },
+  {
     "date": "2026.09.02",
     "market": "美国",
     "kind": "海外媒体",
@@ -230,26 +260,6 @@ const STORIES=[
     "tone": "sand"
   },
   {
-    "date": "2026.05.08",
-    "market": "北美",
-    "kind": "品牌新闻",
-    "title": "Sunseeker 发布第二代无边界割草机器人系列",
-    "summary": "新品在纽约亮相，强调免埋线、本地化市场适配以及欧洲和北美渠道合作。",
-    "source": "Sunseeker Robotics",
-    "url": "https://en.prnasia.com/releases/global/sunseeker-robotics-unveils-x-gen-2-series-robot-mower-at-spring-spectacular-advancing-wire-free-lawn-care-for-north-america-532254.shtml",
-    "tone": "blue"
-  },
-  {
-    "date": "2026.04.30",
-    "market": "北美",
-    "kind": "品牌新闻",
-    "title": "商用自主草坪养护迎来新一轮产品升级",
-    "summary": "面向市政与大型设施的专业产品，把高精度导航、规模化调度和高覆盖效率推向核心位置。",
-    "source": "Husqvarna US",
-    "url": "https://www.husqvarna.com/us/discover/press-room/2026/560epos/",
-    "tone": "lime"
-  },
-  {
     "date": "2026.04.27",
     "market": "北美",
     "kind": "机器人产业",
@@ -258,16 +268,6 @@ const STORIES=[
     "source": "Dreame / Newswire",
     "url": "https://www.newswire.ca/news-releases/dreame-next-north-america-launch-three-innovations-set-to-shape-the-future-of-the-smart-yard-871310102.html",
     "tone": "mint"
-  },
-  {
-    "date": "2026.04.15",
-    "market": "德国 / 欧洲",
-    "kind": "品牌新闻",
-    "title": "Greenworks 在欧洲推出 AI 无边界割草系列",
-    "summary": "自动建图、电动调高与覆盖多面积段的产品矩阵，体现欧洲住宅市场的分层需求。",
-    "source": "Greenworks / PR Newswire",
-    "url": "https://www.prnewswire.co.uk/news-releases/a-new-era-for-european-gardens-greenworks-debuts-the-aimowbot-c-series-an-ai-powered-wire-free-mowing-revolution-302743345.html",
-    "tone": "blue"
   }
 ];
 const SERVICES=[
