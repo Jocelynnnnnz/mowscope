@@ -1,5 +1,25 @@
 const STORIES=[
   {
+    "date": "2026.09.04",
+    "market": "德国 / 欧洲",
+    "kind": "品牌新闻",
+    "title": "ANTHBOT R7 以 EdgeEase 机械臂实现贴边修剪",
+    "summary": "ANTHBOT 在 IFA 2026 发布 R7 系列，侧置 EdgeEase 修剪机械臂结合专用 LiDAR 与相机持续识别墙面、围栏和花坛边界，目标是减少割草机器人完成作业后的人工补边；售价与上市区域尚未公布。",
+    "source": "ANTHBOT / IFA Exhibitor News",
+    "url": "https://ifa.vporoom.com/2026-09-04-ANTHBOT-R7-Series-Brings-True-Zero-Edge-Trimming-to-Robot-Mowing",
+    "tone": "lime"
+  },
+  {
+    "date": "2026.09.04",
+    "market": "德国 / 全球",
+    "kind": "机器人产业",
+    "title": "MOVA AstraX 展示可伸缩机械臂与立面修边能力",
+    "summary": "MOVA 在 IFA 2026 展示 AstraX，UltraTrim 4.0 机械臂可伸缩并调整高度，覆盖草坪边缘及垂直修边场景；现场采用机械臂联动演示，反映庭院机器人正从移动割草向主动操作扩展。",
+    "source": "MOVA / IFA Berlin",
+    "url": "https://www.mova.tech/pages/ifa-2026",
+    "tone": "mint"
+  },
+  {
     "date": "2026.09.03",
     "market": "德国 / 全球",
     "kind": "品牌新闻",
@@ -140,16 +160,6 @@ const STORIES=[
     "tone": "lime"
   },
   {
-    "date": "2026.07.20",
-    "market": "德国 / 欧洲",
-    "kind": "品牌新闻",
-    "title": "ANTHBOT 发布 M9 Pro 四融合导航无边界割草机器人",
-    "summary": "新品融合 360° LiDAR、RTK、NetRTK 与双目 AI 视觉，面向 1,000 平方米以内复杂庭院并支持最多 32 个割草区域。",
-    "source": "ANTHBOT / PR Newswire",
-    "url": "https://www.prnewswire.co.uk/news-releases/anthbot-m9-pro-launches-with-holosense-quad-fusion-navigation-for-easy-wire-free-lawn-care-302828428.html",
-    "tone": "lime"
-  },
-  {
     "date": "2026.07.17",
     "market": "澳大利亚",
     "kind": "海外媒体",
@@ -198,16 +208,6 @@ const STORIES=[
     "source": "AllynavAG / PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000025.000168106.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.06.15",
-    "market": "欧洲",
-    "kind": "机器人产业",
-    "title": "NexLawn 多款庭院机器人获得 iF 与红点奖项",
-    "summary": "带可伸缩机械臂的多功能户外助手概念，推动割草机器人从单功能工具向庭院作业平台演进。",
-    "source": "NexLawn / Newswire",
-    "url": "https://www.newswire.ca/news-releases/multiple-nexlawn-robotic-lawn-mowers-sweep-the-2026-if-and-red-dot-design-awards-807169106.html",
-    "tone": "lime"
   },
   {
     "date": "2026.06.10",
