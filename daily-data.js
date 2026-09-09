@@ -1,12 +1,12 @@
 STORIES.unshift({
-  date: "2026.07.28",
-  market: "美国",
+  date: "2026.09.01",
+  market: "全球 / 欧洲",
   kind: "机器人产业",
-  title: "FCC 将外国生产的先进机器人设备加入 Covered List",
-  summary: "美国 FCC 公告明确：相关设备被列入 Covered List 后不得取得新的 FCC 设备授权，但获得有条件批准的设备除外。联网割草机器人企业需按生产地、产品定义和具体授权路径逐型号评估，不能将该措施简单理解为对现有设备的全面禁售。",
-  source: "美国联邦通信委员会（FCC）",
-  url: "https://docs.fcc.gov/public/attachments/DA-26-786A1.pdf",
-  tone: "blue"
+  title: "普渡机器人推出 GT 系列，切入专业草坪养护市场",
+  summary: "普渡机器人发布 GT3、GT5 与 GT7 三款商用割草机器人，分别面向碎片化商业场地、大面积草坪以及高尔夫球场和专业运动场；全系支持自主作业与人工驾驶模式，并计划于德国 GaLaBau 2026 首次全球展出。",
+  source: "Pudu Robotics / PR Newswire",
+  url: "https://www.prnewswire.com/news-releases/pudu-robotics-launches-pudu-gt-series-a-three-model-lineup-of-commercial-robotic-mowers-for-professional-grounds-and-turf-management-302866160.html",
+  tone: "lime"
 });
 
 STORIES.unshift({
