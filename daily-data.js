@@ -1,4 +1,15 @@
 STORIES.unshift({
+  date: "2026.09.03",
+  market: "全球 / 欧洲",
+  kind: "品牌新闻",
+  title: "Roborock 在 IFA 2026 展示 RockNeo Q2 LiDAR 割草机器人",
+  summary: "Roborock 官方 IFA 页面将 RockNeo Q2 LiDAR 列为新品，核心能力包括 Sentisphere LiDAR 环境感知、AI 智能建图与 ReactiVision 视觉避障，显示其庭院机器人产品线继续向免边界线和多传感器导航演进。",
+  source: "Roborock 官方",
+  url: "https://global.roborock.com/pages/ifa-2026",
+  tone: "lime"
+});
+
+STORIES.unshift({
   date: "2026.09.01",
   market: "全球 / 欧洲",
   kind: "机器人产业",
