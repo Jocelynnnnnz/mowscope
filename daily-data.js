@@ -10,13 +10,13 @@ STORIES.unshift({
 });
 
 STORIES.unshift({
-  date: "2026.07.30",
-  market: "全球 / 欧美",
-  kind: "海外媒体",
-  title: "割草机器人走向主流：竞争焦点转向贴边、复杂地形与零安装",
-  summary: "TechRadar 访谈显示，行业正从单一免埋线转向贴边修剪、全轮驱动、复杂地形适应与多传感器融合；欧洲更关注小庭院精细作业，美国更强调大草坪覆盖效率。",
-  source: "TechRadar",
-  url: "https://www.techradar.com/home/smart-home/maybe-laziness-is-the-best-way-to-improve-the-technology-i-chatted-to-a-lawnbot-exec-about-the-tech-and-trends-taking-robot-mowers-mainstream",
+  date: "2026.09.10",
+  market: "全球 / 欧洲",
+  kind: "品牌新闻",
+  title: "AIRSEEKERS ARANIX 在 IFA 2026 首次亮相",
+  summary: "AIRSEEKERS 发布新一代旗舰割草机器人 ARANIX，针对陡坡、起伏地面、狭窄通道与不规则草坪，引入全地形底盘、独立悬挂、升级导航和新一代切割系统，并在 IFA 2026 完成首次展示。",
+  source: "AIRSEEKERS 官方",
+  url: "https://store.airseekers-robotics.com/blogs/news/airseekers-aranix-robot-lawn-mower-debuts-at-ifa-2026",
   tone: "lime"
 });
 
