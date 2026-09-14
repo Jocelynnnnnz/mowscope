@@ -1,4 +1,32 @@
 POLICIES.unshift({
+  slug: "us-fcc-husqvarna-conditional-approvals",
+  region: "美国",
+  status: "已生效 · 特定型号有条件批准",
+  date: "2026.09.09",
+  title: "美国 FCC 有条件批准 Husqvarna 四款机器人平台",
+  summary: "FCC 于 2026 年 9 月 9 日更新有条件批准清单，将 Husqvarna AB 的 305v IQ、310v IQ、420v IQ 和 440v IQ 机器人平台列入批准范围。该决定是针对明确列名平台的例外，不代表所有外国生产机器人设备或其他 Husqvarna 型号自动获批。",
+  source: "FCC｜Public Notice DA 26-957",
+  sourceUrl: "https://docs.fcc.gov/public/attachments/DA-26-957A1.pdf",
+  points: [
+    "FCC 公告附录 B 将 Husqvarna AB 305v IQ、310v IQ、420v IQ 和 440v IQ robotic platforms 列入机器人设备有条件批准清单。",
+    "清单记录的批准日期自 2026 年 9 月 9 日起，公告未在该表中列明终止日期。",
+    "有条件批准属于 Covered List 设备授权限制下的指定例外，适用范围以公告列明的申请人、平台和条件为准。",
+    "公告没有把批准扩大到全部割草机器人、全部 Husqvarna 产品或所有后续变型。"
+  ],
+  impact: [
+    "四款列名平台在美国的新设备授权路径获得明确积极信号，但企业仍需核对具体 FCC ID、无线配置、生产地和批准条件。",
+    "其他品牌和未列名型号不能援引本次决定作为自动豁免，仍受 Covered List 规则及各自授权状态约束。",
+    "渠道端可据此区分‘特定平台获有条件批准’与‘现有产品继续销售’，避免将个案表述为行业全面放开。"
+  ],
+  actions: [
+    "对 305v IQ、310v IQ、420v IQ、440v IQ 建立平台名称、具体型号、FCC ID、生产地和授权文件映射表。",
+    "在引入硬件、无线模块或生产地点变更前，确认变更是否仍落在有条件批准范围内。",
+    "未列名产品继续按新设备授权限制评估，不要默认适用 Husqvarna 的个案批准。",
+    "对外说明引用 DA 26-957 原文，并保留‘有条件’和‘特定平台’两个限定。"
+  ]
+});
+
+POLICIES.unshift({
   slug: "us-commerce-walk-behind-mower-orders-revoked",
   region: "美国",
   status: "已撤销 · 机器人割草机不在原范围",
