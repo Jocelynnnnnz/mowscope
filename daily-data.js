@@ -21,12 +21,12 @@ STORIES.unshift({
 });
 
 STORIES.unshift({
-  date: "2026.07.31",
-  market: "美国 / 全球",
-  kind: "海外媒体",
-  title: "FCC 新规覆盖联网割草机器人，现有获批产品仍可继续销售与支持",
-  summary: "TechRadar 援引 FCC 确认，符合定义的外国生产移动机器人将面临新的设备授权限制，割草机器人亦在范围内；品牌回应强调，已获授权并在售的现有产品仍可继续销售、使用、更新与获得客户支持，企业正等待未来型号适用细节进一步明确。",
-  source: "TechRadar",
-  url: "https://www.techradar.com/home/robot-vacuums/first-drones-now-robot-vacuums-the-us-governments-ban-on-foreign-robots-is-confirmed-to-include-many-of-the-best-robovacs-and-robot-lawn-mowers-on-the-market-and-brands-may-have-been-caught-off-guard",
-  tone: "blue"
+  date: "2026.09.13",
+  market: "全球 / 欧洲",
+  kind: "机器人产业",
+  title: "PANDAG G1 商用自主割草机将在 GaLaBau 2026 首次正式亮相",
+  summary: "PANDAG 宣布 G1 商用自主割草机将于德国 GaLaBau 2026 正式亮相。该机融合 LiDAR、AI 视觉、RTK 与 4G，提供 48 英寸割幅，官方称单日可覆盖约 12 英亩，并支持最高 38° 坡地及侧排、后排模块化刀盘配置。",
+  source: "PANDAG / PR Newswire",
+  url: "https://www.prnewswire.com/news-releases/pandag-g1-to-make-first-official-appearance-at-galabau-2026-302877024.html",
+  tone: "lime"
 });
