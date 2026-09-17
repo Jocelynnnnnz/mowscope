@@ -1,11 +1,11 @@
 STORIES.unshift({
-  date: "2026.09.03",
+  date: "2026.09.11",
   market: "全球 / 欧洲",
   kind: "品牌新闻",
-  title: "Roborock 在 IFA 2026 展示 RockNeo Q2 LiDAR 割草机器人",
-  summary: "Roborock 官方 IFA 页面将 RockNeo Q2 LiDAR 列为新品，核心能力包括 Sentisphere LiDAR 环境感知、AI 智能建图与 ReactiVision 视觉避障，显示其庭院机器人产品线继续向免边界线和多传感器导航演进。",
-  source: "Roborock 官方",
-  url: "https://global.roborock.com/pages/ifa-2026",
+  title: "AL-KO 发布 2027 款 Robolinho 机器人割草机阵容",
+  summary: "AL-KO 在 GaLaBau 2026 展示新一代 solo by AL-KO Robolinho 产品组合，针对不同庭院面积和地形采用视觉、360° LiDAR 与 nRTK 等多种导航组合；其中 COMFORTpro 系列面向中型草坪，融合双目视觉和 360° LiDAR。",
+  source: "AL-KO 官方",
+  url: "https://al-ko.com/news/al-ko-gardentech-praesentiert-produkt-highlights-auf-der-galabau/",
   tone: "lime"
 });
 
