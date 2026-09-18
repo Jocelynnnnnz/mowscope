@@ -10,13 +10,13 @@ STORIES.unshift({
 });
 
 STORIES.unshift({
-  date: "2026.09.10",
+  date: "2026.09.15",
   market: "全球 / 欧洲",
   kind: "品牌新闻",
-  title: "AIRSEEKERS ARANIX 在 IFA 2026 首次亮相",
-  summary: "AIRSEEKERS 发布新一代旗舰割草机器人 ARANIX，针对陡坡、起伏地面、狭窄通道与不规则草坪，引入全地形底盘、独立悬挂、升级导航和新一代切割系统，并在 IFA 2026 完成首次展示。",
-  source: "AIRSEEKERS 官方",
-  url: "https://store.airseekers-robotics.com/blogs/news/airseekers-aranix-robot-lawn-mower-debuts-at-ifa-2026",
+  title: "Navimow 预展 Terranox PM1400，扩展商用割草机器人阵容",
+  summary: "Segway Navimow 在 GaLaBau 2026 展示开发中的 Terranox PM1400 商用机型技术，面向园林承包商、城市绿地、运动场和高尔夫球场；产品采用 Xero-Turn 全轮驱动，官方称可应对最高 80% 坡度，预计于 2027 年初进入部分市场。",
+  source: "Segway Navimow / Presseportal",
+  url: "https://www.presseportal.de/pm/183411/40000153",
   tone: "lime"
 });
 
