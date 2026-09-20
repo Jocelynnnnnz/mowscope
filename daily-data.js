@@ -1,11 +1,11 @@
 STORIES.unshift({
-  date: "2026.09.11",
-  market: "全球 / 欧洲",
+  date: "2026.09.15",
+  market: "全球 / 欧美",
   kind: "品牌新闻",
-  title: "AL-KO 发布 2027 款 Robolinho 机器人割草机阵容",
-  summary: "AL-KO 在 GaLaBau 2026 展示新一代 solo by AL-KO Robolinho 产品组合，针对不同庭院面积和地形采用视觉、360° LiDAR 与 nRTK 等多种导航组合；其中 COMFORTpro 系列面向中型草坪，融合双目视觉和 360° LiDAR。",
-  source: "AL-KO 官方",
-  url: "https://al-ko.com/news/al-ko-gardentech-praesentiert-produkt-highlights-auf-der-galabau/",
+  title: "ANTHBOT N8 四合一庭院机器人在欧美上市",
+  summary: "ANTHBOT 宣布 N8 正式上市，将割草、集草、碎草和落叶清扫整合为一体；产品配备 23 升集草袋、满载感应与指定点卸载功能，并通过全频段 RTK 与双目视觉进行定位导航。欧洲起售价 1,599 欧元，美国起售价 1,699 美元。",
+  source: "ANTHBOT / PR Newswire",
+  url: "https://www.prnewswire.co.uk/news-releases/anthbot-n8-brings-4-in-1-robotic-lawn-care-secures-international-design-recognition-302878518.html",
   tone: "lime"
 });
 
