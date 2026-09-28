@@ -21,12 +21,12 @@ STORIES.unshift({
 });
 
 STORIES.unshift({
-  date: "2026.09.13",
+  date: "2026.09.23",
   market: "全球 / 欧洲",
   kind: "机器人产业",
-  title: "PANDAG G1 商用自主割草机将在 GaLaBau 2026 首次正式亮相",
-  summary: "PANDAG 宣布 G1 商用自主割草机将于德国 GaLaBau 2026 正式亮相。该机融合 LiDAR、AI 视觉、RTK 与 4G，提供 48 英寸割幅，官方称单日可覆盖约 12 英亩，并支持最高 38° 坡地及侧排、后排模块化刀盘配置。",
-  source: "PANDAG / PR Newswire",
-  url: "https://www.prnewswire.com/news-releases/pandag-g1-to-make-first-official-appearance-at-galabau-2026-302877024.html",
+  title: "PANDAG G1 商用自主割草机已投产并开始向车队发货",
+  summary: "PANDAG 官网已将 G1 更新为“投入生产”并称正向商用车队发货。该机面向高尔夫球场和大型绿地，融合 LiDAR、AI 视觉与 RTK，提供 48 英寸割幅；官方称单日可覆盖约 12 英亩，并支持自动回充和人工遥控接管。",
+  source: "PANDAG 官方",
+  url: "https://www.pandag.com/",
   tone: "lime"
 });
