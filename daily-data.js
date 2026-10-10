@@ -10,13 +10,13 @@ STORIES.unshift({
 });
 
 STORIES.unshift({
-  date: "2026.09.15",
-  market: "全球 / 欧洲",
-  kind: "品牌新闻",
-  title: "Navimow 预展 Terranox PM1400，扩展商用割草机器人阵容",
-  summary: "Segway Navimow 在 GaLaBau 2026 展示开发中的 Terranox PM1400 商用机型技术，面向园林承包商、城市绿地、运动场和高尔夫球场；产品采用 Xero-Turn 全轮驱动，官方称可应对最高 80% 坡度，预计于 2027 年初进入部分市场。",
-  source: "Segway Navimow / Presseportal",
-  url: "https://www.presseportal.de/pm/183411/40000153",
+  date: "2026.10.07",
+  market: "北美 / 全球",
+  kind: "机器人产业",
+  title: "FireFly Robotics 提交 S-1，拟以 FFLY 代码直接登陆纳斯达克",
+  summary: "商用草坪机器人厂商 FireFly Robotics 已向美国 SEC 公开提交 Form S-1，申请在纳斯达克全球市场直接上市，拟用代码 FFLY。此次交易尚待 SEC 审查、注册声明生效及纳斯达克批准；公司不发行新股，也不会从直接上市中获得募集资金。",
+  source: "FireFly Robotics 官方",
+  url: "https://fireflyautomatix.com/filing-registration-statement-for-proposed-public-direct-listing-common-stock/",
   tone: "lime"
 });
 
