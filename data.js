@@ -110,6 +110,16 @@ const STORIES=[
     "tone": "lime"
   },
   {
+    "date": "2026.08.25",
+    "market": "中国 / 全球",
+    "kind": "公众号精选",
+    "title": "五家上市公司半年报映射割草机器人产业链增长",
+    "summary": "LiPro智能机器人梳理乐动、大叶、友升、德昌与石头科技半年报：乐动披露智能割草机器人销售收入同比增长 159.1%，德昌表示相关产品已量产，友升则继续推进户外智能设备布局。文中经营数据以各公司公开财报为核验依据，跨公司比较不代表统一统计口径。",
+    "source": "LiPro智能机器人（公开同步稿）",
+    "url": "https://www.sohu.com/a/1067299775_122643571",
+    "tone": "sand"
+  },
+  {
     "date": "2026.08.20",
     "market": "美国",
     "kind": "品牌新闻",
@@ -138,6 +148,16 @@ const STORIES=[
     "source": "WIRED",
     "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
     "tone": "lime"
+  },
+  {
+    "date": "2026.07.30",
+    "market": "中国 / 全球",
+    "kind": "公众号精选",
+    "title": "LiPro复盘 Navimow 海外 AMA：软件体验成为竞争焦点",
+    "summary": "LiPro智能机器人根据 Navimow 官方社区 AMA 汇总海外用户对地图工具、任务调度、边缘修剪、导航安全与智能家居接入的反馈。官方回复显示，部分功能已进入开发或评估阶段，但多数尚未给出确定上线时间，不能视为已经交付。",
+    "source": "LiPro智能机器人（公开同步稿）/ Navimow 官方 AMA",
+    "url": "https://www.sohu.com/a/1056425270_122643571",
+    "tone": "sand"
   },
   {
     "date": "2026.07.24",
@@ -177,16 +197,6 @@ const STORIES=[
     "summary": "新品采用 AI 视觉与无边界作业方案，面向物业庭院、市政园林、政企园区和运动场馆等家用与商用场景。",
     "source": "苏美达股份",
     "url": "https://www.sumec.com/news/ywzx/202607/t20260713_646768.html",
-    "tone": "sand"
-  },
-  {
-    "date": "2026.06.26",
-    "market": "中国 / 全球",
-    "kind": "公众号精选",
-    "title": "无边界技术渗透加快，中国品牌如何巩固全球竞争力",
-    "summary": "从产品降本、技术迭代到海外业务协同，观察割草机器人作为新业务曲线的成长逻辑。",
-    "source": "同花顺金融研究中心",
-    "url": "https://yuanchuang.10jqka.com.cn/20260626/c677747659.shtml",
     "tone": "sand"
   },
   {
@@ -238,16 +248,6 @@ const STORIES=[
     "source": "每日经济新闻",
     "url": "https://www.nbd.com.cn/articles/2026-05-25/4407312.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.05.14",
-    "market": "英国",
-    "kind": "海外媒体",
-    "title": "LiDAR 割草机器人在大庭院中的真实体验",
-    "summary": "评测重点落在自动建图、复杂遮挡、导航稳定性与同类 LiDAR 产品的价格比较。",
-    "source": "T3",
-    "url": "https://www.t3.com/home-living/garden/segway-navimow-i208-lidar-robot-lawn-mower",
-    "tone": "mint"
   },
   {
     "date": "2026.05.10",
