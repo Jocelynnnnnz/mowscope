@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.10.12",
+    "market": "英国 / 欧洲",
+    "kind": "海外媒体",
+    "title": "Worx Landroid Vision Cloud WR306E 实测：云端 RTK 降低部署门槛",
+    "summary": "TechRadar 实测认为 WR306E 可通过自动或遥控方式建立虚拟边界，无需埋线和庭院 RTK 基站；云端 RTK 与双目视觉带来稳定导航和避障，侧置 Cut-to-Zero 模块可减少边缘漏割。评测同时指出初始设置较繁琐、应用界面需要适应，割草高度也只能在机身上手动调节。",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com/home/smart-home/worx-landroid-vision-cloud-wr306e-robot-lawn-mower-review-efficient-autonomous-lawn-care-for-medium-swards",
+    "tone": "lime"
+  },
+  {
     "date": "2026.09.04",
     "market": "德国 / 欧洲",
     "kind": "品牌新闻",
@@ -168,16 +178,6 @@ const STORIES=[
     "source": "人民网北京频道",
     "url": "https://bj.people.com.cn/n2/2026/0724/c14540-41648681.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.07.21",
-    "market": "全球",
-    "kind": "海外媒体",
-    "title": "选购割草机器人前需要回答的五个问题",
-    "summary": "从驱动方式、遮挡环境、草坪面积、多区域管理和安装复杂度出发，解释 RTK、LiDAR 与 AWD 的适用边界。",
-    "source": "TechRadar",
-    "url": "https://www.techradar.com/home/smart-home/5-questions-to-ask-before-choosing-a-robot-lawn-mower-according-to-a-lawnbot-exec",
-    "tone": "lime"
   },
   {
     "date": "2026.07.17",
