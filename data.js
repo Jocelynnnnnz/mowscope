@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.10.13",
+    "market": "美国 / 北美",
+    "kind": "品牌新闻",
+    "title": "Toro 预告 HAVEN AM75 自主割草机，计划 2027 年上市",
+    "summary": "Toro 发布面向最大约四分之三英亩住宅草坪的 HAVEN AM75：采用 LiDAR 导航与摄像头避障，可自动识别草坪边缘建图；边界不清时也支持通过手机遥控划定，并可跨越车道连接多块草坪。产品目前属于 2027 年上市计划，官方尚未公布售价与确切开售日期。",
+    "source": "Toro / PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/robot-precision-and-zero-turn-muscle-toros-2027-residential-mower-collection-302906705.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.10.12",
     "market": "英国 / 欧洲",
     "kind": "海外媒体",
@@ -137,16 +147,6 @@ const STORIES=[
     "summary": "在 2026 美国高级女子公开赛期间，Barton Hills Country Club 使用约 30 台机器人割草机维护球道与长草区，其中包括 Automower 580L EPOS 与 535 AWD EPOS，展示商用自主割草在高标准草坪场景中的规模化应用。",
     "source": "Husqvarna / PR Newswire",
     "url": "https://www.prnewswire.com/news-releases/husqvarna-brings-autonomous-mowing-to-the-2026-us-senior-womens-open-302856563.html",
-    "tone": "blue"
-  },
-  {
-    "date": "2026.08.18",
-    "market": "澳大利亚",
-    "kind": "品牌新闻",
-    "title": "GOKO M6 在澳大利亚开放预订，首批限量 300 台",
-    "summary": "GOKO 宣布 M6 于 8 月 17 日在澳大利亚官网开放预订；产品采用四轮驱动与免埋线导航，支持 25–100 毫米割草高度，并以 300 台限量首发优惠推进当地市场验证。",
-    "source": "GOKO / PR Newswire",
-    "url": "https://en.prnasia.com/releases/apac/goko-m6-robotic-lawn-mower-opens-for-pre-order-in-australia-on-17-august-544302.shtml",
     "tone": "blue"
   },
   {
