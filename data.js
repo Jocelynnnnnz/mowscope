@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.10.15",
+    "market": "美国",
+    "kind": "品牌新闻",
+    "title": "RC Mowers 将在 Equip Expo 展示新商用自主割草平台",
+    "summary": "RC Mowers 宣布将在 10 月 20—23 日的 Equip Expo 发布一款全新商用自主割草平台，并展示让遥控坡地割草机扩展至全年场地维护的配件。品牌计划于 10 月 21 日向经销商和媒体首次展示；目前尚未披露新平台的规格、售价或上市时间。",
+    "source": "RC Mowers / PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/rc-mowers-to-unveil-next-evolution-in-commercial-mowing-at-equip-expo-302909254.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.10.13",
     "market": "美国 / 北美",
     "kind": "品牌新闻",
@@ -108,16 +118,6 @@ const STORIES=[
     "source": "Xcanbot / Presseportal",
     "url": "https://www.presseportal.de/en/pm/23141/6342198",
     "tone": "lime"
-  },
-  {
-    "date": "2026.08.27",
-    "market": "德国 / 全球",
-    "kind": "品牌新闻",
-    "title": "Sunseeker 将在 IFA 2026 预展 2027 智能庭院产品线",
-    "summary": "Sunseeker 宣布将在 9 月 4—8 日的柏林 IFA 展示 2027 产品阵容与 Smart Garden 愿景，重点回应安装简化、地图与日程自动调整、环境变化适应及割草以外的庭院作业需求。",
-    "source": "Sunseeker Robotics",
-    "url": "https://sunseekertech.com/global/news/what-comes-after-the-robotic-lawn-mower-sunseeker-to-preview-the-future-of-smart-garden-care-at-ifa-2026",
-    "tone": "mint"
   },
   {
     "date": "2026.08.26",
