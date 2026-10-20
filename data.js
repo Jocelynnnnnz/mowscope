@@ -1,5 +1,25 @@
 const STORIES=[
   {
+    "date": "2026.10.19",
+    "market": "美国 / 澳大利亚",
+    "kind": "品牌新闻",
+    "title": "ANTHBOT Genie 600E 进入澳大利亚 Costco 线下巡展",
+    "summary": "ANTHBOT 与当地经销伙伴宣布，Genie 600E 将于 2026 年 10 月至 2027 年 1 月在澳大利亚多家 Costco 仓储门店巡展，提供现场演示。品牌还计划将 M、M Pro、N 和 R 系列引入澳大利亚，具体上市时间尚未公布。",
+    "source": "ANTHBOT / PR Newswire",
+    "url": "https://www.prnewswire.com/apac/news-releases/anthbot-genie-600e-comes-to-costco-australia-for-in-store-roadshow-302912699.html",
+    "tone": "blue"
+  },
+  {
+    "date": "2026.10.19",
+    "market": "美国",
+    "kind": "海外媒体",
+    "title": "Kress KR804 Voyager 60 商用自主割草机亮相 Equip Expo 预览",
+    "summary": "Landscape Management 的展前新品预览介绍了 Kress KR804 Voyager 60：这是一款 60 英寸割幅、38 千瓦时电池的商用自主零转弯割草机。品牌宣称单次充电最多覆盖 19 英亩；该数值属于厂商标称能力，仍待独立实测。",
+    "source": "Landscape Management",
+    "url": "https://www.landscapemanagement.net/equip-exposition-2026-previews-new-equipment-and-tech-for-landscaping-pros/",
+    "tone": "lime"
+  },
+  {
     "date": "2026.10.15",
     "market": "美国",
     "kind": "品牌新闻",
@@ -110,16 +130,6 @@ const STORIES=[
     "tone": "mint"
   },
   {
-    "date": "2026.08.30",
-    "market": "德国 / 欧洲",
-    "kind": "品牌新闻",
-    "title": "XcanMow Mix 2000 将在 IFA 2026 完成欧洲首秀",
-    "summary": "Xcanbot 将在柏林展示 Mix 2000，产品采用 LiDAR 与相机视觉融合，不依赖边界线、RTK 天线或基站；品牌宣称其可自动建图，并面向树荫和建筑遮挡环境保持定位。",
-    "source": "Xcanbot / Presseportal",
-    "url": "https://www.presseportal.de/en/pm/23141/6342198",
-    "tone": "lime"
-  },
-  {
     "date": "2026.08.26",
     "market": "美国",
     "kind": "海外媒体",
@@ -148,16 +158,6 @@ const STORIES=[
     "source": "Husqvarna / PR Newswire",
     "url": "https://www.prnewswire.com/news-releases/husqvarna-brings-autonomous-mowing-to-the-2026-us-senior-womens-open-302856563.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.08.03",
-    "market": "美国 / 全球",
-    "kind": "海外媒体",
-    "title": "WIRED 更新 2026 割草机器人实测榜单：免埋线产品进入可用阶段",
-    "summary": "WIRED 基于三年实测更新推荐，覆盖 TerraMow、Mammotion、ANTHBOT 与 Mowrator 等产品，并指出 RTK、视觉导航和复杂地形能力已让割草机器人从高价尝鲜品逐步走向实际可选。",
-    "source": "WIRED",
-    "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-    "tone": "lime"
   },
   {
     "date": "2026.07.30",
