@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.10.20",
+    "market": "澳大利亚",
+    "kind": "品牌新闻",
+    "title": "GOKO 在澳大利亚展示 M6 与多用途遥控平台 X5",
+    "summary": "GOKO 披露 10 月 13 日悉尼发布活动：M6 面向大面积复杂草坪，采用四驱、视觉与网络 RTK 融合导航，官方标称单次充电最多覆盖约 4,000 平方米；X5 为可割草、除雪和牵引的履带式遥控平台。M6 已在澳大利亚开放预订，品牌称计划 11 月 10 日起在当地 Amazon 销售。",
+    "source": "GOKO / PR Newswire",
+    "url": "https://www.prnewswire.com/apac/news-releases/goko-m6-robotic-lawn-mower-for-large-lawns-debuts-in-australia-alongside-three-in-one-x5-for-mowing-snow-blowing-and-towing-302914121.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.10.19",
     "market": "美国 / 澳大利亚",
     "kind": "品牌新闻",
@@ -148,16 +158,6 @@ const STORIES=[
     "source": "LiPro智能机器人（公开同步稿）",
     "url": "https://www.sohu.com/a/1067299775_122643571",
     "tone": "sand"
-  },
-  {
-    "date": "2026.08.20",
-    "market": "美国",
-    "kind": "品牌新闻",
-    "title": "Husqvarna 机器人割草机进入美国高尔夫协会赛事维护场景",
-    "summary": "在 2026 美国高级女子公开赛期间，Barton Hills Country Club 使用约 30 台机器人割草机维护球道与长草区，其中包括 Automower 580L EPOS 与 535 AWD EPOS，展示商用自主割草在高标准草坪场景中的规模化应用。",
-    "source": "Husqvarna / PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/husqvarna-brings-autonomous-mowing-to-the-2026-us-senior-womens-open-302856563.html",
-    "tone": "blue"
   },
   {
     "date": "2026.07.30",
