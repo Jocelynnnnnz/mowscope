@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.10.21",
+    "market": "欧盟 / 中国",
+    "kind": "机器人产业",
+    "title": "Husqvarna 披露欧盟割草机器人反倾销调查进入事实说明环节",
+    "summary": "Husqvarna Group 称已收到欧盟委员会就中国原产机器人割草机反倾销调查的保密事实说明，相关方可在指定期限内提交意见。公司未披露说明内容；这属于调查程序进展，不能据此推断最终税率或征税决定。",
+    "source": "Husqvarna Group / Cision",
+    "url": "https://news.cision.com/husqvarna-group/r/husqvarna-group-notes-eu-commission-s-disclosure-in-robotic-mower-anti-dumping-investigation,c4413454",
+    "tone": "sand"
+  },
+  {
     "date": "2026.10.20",
     "market": "澳大利亚",
     "kind": "品牌新闻",
@@ -258,16 +268,6 @@ const STORIES=[
     "source": "36氪",
     "url": "https://www.36kr.com/p/3801745491943169",
     "tone": "sand"
-  },
-  {
-    "date": "2026.04.27",
-    "market": "北美",
-    "kind": "机器人产业",
-    "title": "追觅在硅谷展示全链路自主庭院方案",
-    "summary": "多功能基站、四驱割草机器人与带机械臂的具身庭院机器人共同亮相，目标从割草扩展到全庭院维护。",
-    "source": "Dreame / Newswire",
-    "url": "https://www.newswire.ca/news-releases/dreame-next-north-america-launch-three-innovations-set-to-shape-the-future-of-the-smart-yard-871310102.html",
-    "tone": "mint"
   }
 ];
 const SERVICES=[
