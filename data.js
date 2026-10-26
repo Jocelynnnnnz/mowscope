@@ -10,6 +10,16 @@ const STORIES=[
     "tone": "sand"
   },
   {
+    "date": "2026.10.21",
+    "market": "美国",
+    "kind": "品牌新闻",
+    "title": "RC Mowers 正式发布 RECONX 商用自主割草机",
+    "summary": "RC Mowers 在 Equip Expo 发布 RECONX，采用 60 或 72 英寸割幅，一名操作员可同时管理最多三台。品牌标称每台每小时通常覆盖 4—5 英亩，计划 2027 年春季投产，起售价 39,986 美元；这些产能数据尚待独立实测。同期推出面向遥控坡地机的喷洒、除雪等配件。",
+    "source": "RC Mowers / PR Newswire",
+    "url": "https://www.prnewswire.com/news-releases/rc-mowers-unveils-all-new-reconx-autonomous-mower-new-brand-identity-and-all-season-slope-mower-accessories-at-equip-expo-302915382.html",
+    "tone": "blue"
+  },
+  {
     "date": "2026.10.20",
     "market": "澳大利亚",
     "kind": "品牌新闻",
@@ -38,16 +48,6 @@ const STORIES=[
     "source": "Landscape Management",
     "url": "https://www.landscapemanagement.net/equip-exposition-2026-previews-new-equipment-and-tech-for-landscaping-pros/",
     "tone": "lime"
-  },
-  {
-    "date": "2026.10.15",
-    "market": "美国",
-    "kind": "品牌新闻",
-    "title": "RC Mowers 将在 Equip Expo 展示新商用自主割草平台",
-    "summary": "RC Mowers 宣布将在 10 月 20—23 日的 Equip Expo 发布一款全新商用自主割草平台，并展示让遥控坡地割草机扩展至全年场地维护的配件。品牌计划于 10 月 21 日向经销商和媒体首次展示；目前尚未披露新平台的规格、售价或上市时间。",
-    "source": "RC Mowers / PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/rc-mowers-to-unveil-next-evolution-in-commercial-mowing-at-equip-expo-302909254.html",
-    "tone": "blue"
   },
   {
     "date": "2026.10.13",
