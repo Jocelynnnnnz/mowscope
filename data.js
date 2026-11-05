@@ -1,5 +1,45 @@
 const STORIES=[
   {
+    "date": "2026.11.03",
+    "market": "荷兰 / 全球",
+    "kind": "品牌新闻",
+    "title": "普渡发布家用割草机器人 TOMO S 系列，主打充电座自动磨刀",
+    "summary": "普渡在阿姆斯特丹发布 TOMO S 系列，称刀片可在回充时自动磨利；导航融合 360° LiDAR、视觉与网络 RTK。系列有三款，面向 1,500—5,000 平方米草坪，品牌预计 2027 年早春开售，价格和上市区域待公布。",
+    "source": "Pudu Robotics / PR Newswire",
+    "url": "https://www.prnewswire.co.uk/news-releases/pudu-robotics-unveils-pudu-tomo-s-series-extending-lawn-care-automation-to-blade-sharpening-302927013.html",
+    "tone": "blue"
+  },
+  {
+    "date": "2026.10.31",
+    "market": "中国 / 欧洲",
+    "kind": "国内媒体",
+    "title": "广交会观察：科沃斯预告新一代割草机器人明年 2 月欧洲上市",
+    "summary": "21世纪经济报道在广交会采访科沃斯展台人员获悉，新一代割草机器人计划于 2027 年 2 月在欧洲上市；展台称其 12 小时可完成约 1,000 平方米草坪作业。该能力与上市时间为企业现场说法，尚待正式产品公告确认。",
+    "source": "21世纪经济报道",
+    "url": "https://m.21jingji.com/article/20261031/16da16dff26d466503cdb104478cd7d5.html",
+    "tone": "sand"
+  },
+  {
+    "date": "2026.10.30",
+    "market": "美国",
+    "kind": "海外媒体",
+    "title": "Sunseeker X5 Gen 2 实测：避障和贴边改善，建图仍繁琐",
+    "summary": "New Atlas 实测认为 X5 Gen 2 能避开喷头、石块等障碍，贴边系统减少人工修剪；但初次建图需人工沿边行走，天线位置要反复调整，评测中还出现地图偏移和连接不稳。结论基于作者庭院体验，并非通用性能测试。",
+    "source": "New Atlas",
+    "url": "https://newatlas.com/consumer-tech/review-sunseeker-elite-x5-gen-2-robo-mower/",
+    "tone": "lime"
+  },
+  {
+    "date": "2026.10.28",
+    "market": "美国",
+    "kind": "机器人产业",
+    "title": "Mach 发布面向大型光伏电站的自主割草方案",
+    "summary": "Mach 宣布为商用割草设备制造商提供工厂集成式自动驾驶平台，用于光伏电站植被维护。方案融合 RTK-GNSS、视觉与相控阵雷达，并支持远程车队调度；公司计划在 11 月 RE+ 26 展示，实际部署规模及节省成本仍待验证。",
+    "source": "Mach 官方",
+    "url": "https://mach.io/mach-launches-tier-1-autonomous-solar-mowing-solutions-for-utility-scale-solar-fleets/",
+    "tone": "mint"
+  },
+  {
     "date": "2026.10.21",
     "market": "欧盟 / 中国",
     "kind": "机器人产业",
@@ -200,16 +240,6 @@ const STORIES=[
     "tone": "blue"
   },
   {
-    "date": "2026.07.10",
-    "market": "中国",
-    "kind": "品牌新闻",
-    "title": "苏美达发布 AI 视觉无边界割草机器人",
-    "summary": "新品采用 AI 视觉与无边界作业方案，面向物业庭院、市政园林、政企园区和运动场馆等家用与商用场景。",
-    "source": "苏美达股份",
-    "url": "https://www.sumec.com/news/ywzx/202607/t20260713_646768.html",
-    "tone": "sand"
-  },
-  {
     "date": "2026.06.24",
     "market": "德国 / 欧洲",
     "kind": "机器人产业",
@@ -230,26 +260,6 @@ const STORIES=[
     "tone": "blue"
   },
   {
-    "date": "2026.06.10",
-    "market": "美国",
-    "kind": "海外媒体",
-    "title": "Roborock 将室内机器人能力延伸至中小型草坪",
-    "summary": "自动建图、贴边修剪和环境感知成为 RockNeo Q110H 的核心卖点，品牌跨品类能力受到关注。",
-    "source": "Tom's Guide",
-    "url": "https://www.tomsguide.com/home/roborocks-new-robot-lawnmower-has-some-incredibly-smart-features-but-heres-one-im-really-excited-about",
-    "tone": "mint"
-  },
-  {
-    "date": "2026.06.01",
-    "market": "中国",
-    "kind": "机器人产业",
-    "title": "全场景商用智能割草机器人进入系统联调",
-    "summary": "新玩家从底盘制造向自动驾驶与商用机器人延伸，产业链能力边界继续扩大。",
-    "source": "友升股份",
-    "url": "https://www.unisonal.com/newsInfo/8.html",
-    "tone": "sand"
-  },
-  {
     "date": "2026.05.25",
     "market": "美国",
     "kind": "国内媒体",
@@ -258,16 +268,6 @@ const STORIES=[
     "source": "每日经济新闻",
     "url": "https://www.nbd.com.cn/articles/2026-05-25/4407312.html",
     "tone": "blue"
-  },
-  {
-    "date": "2026.05.10",
-    "market": "中国 / 全球",
-    "kind": "国内媒体",
-    "title": "庭院机器人公司半年融资超亿元并获得数亿元订单",
-    "summary": "创业公司把无边界割草机作为入口，向多功能庭院具身终端和欧美专业渠道继续延伸。",
-    "source": "36氪",
-    "url": "https://www.36kr.com/p/3801745491943169",
-    "tone": "sand"
   }
 ];
 const SERVICES=[
