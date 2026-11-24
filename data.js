@@ -1,5 +1,15 @@
 const STORIES=[
   {
+    "date": "2026.11.17",
+    "market": "英国 / 欧洲",
+    "kind": "海外媒体",
+    "title": "RockMow Z120 LiDAR 实测：树荫导航与坡地表现突出，价格偏高",
+    "summary": "TechRadar 在英国庭院实测石头科技 RockMow Z120 LiDAR，认为 LiDAR 与视觉导航在树木遮挡环境中稳定，前轮转向和悬挂改善复杂地形作业，割草效果整齐；但机身较大、售价偏高，对小草坪可能配置过剩。结论基于作者的使用场景。",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com/home/smart-home/roborock-rockmow-z120-lidar-review",
+    "tone": "lime"
+  },
+  {
     "date": "2026.11.03",
     "market": "荷兰 / 全球",
     "kind": "品牌新闻",
@@ -237,16 +247,6 @@ const STORIES=[
     "summary": "GOAT A2000 LiDAR PRO 与 GOAT O600 RTK 于 8 月 4 日在澳大利亚上市，分别覆盖大面积双激光雷达与中小草坪 RTK 路线，反映澳新市场的产品分层正在加快。",
     "source": "BTTR Reviews",
     "url": "https://www.bttr.reviews/ecovacs-just-built-a-robot-army-for-your-backyard/",
-    "tone": "blue"
-  },
-  {
-    "date": "2026.06.24",
-    "market": "德国 / 欧洲",
-    "kind": "机器人产业",
-    "title": "中国园林工具品牌在 spoga+gafa 展示智能割草方案",
-    "summary": "电池平台、智能割草机器人与零转向设备共同出现，显示传统园林工具企业正在加速智能化。",
-    "source": "PR Newswire",
-    "url": "https://www.prnewswire.com/news-releases/dck-showcases-battery-powered-and-smart-garden-care-solutions-at-spogagafa-2026-302809176.html",
     "tone": "blue"
   },
   {
