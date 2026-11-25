@@ -1,4 +1,31 @@
 POLICIES.unshift({
+  slug: "uk-robot-mower-import-registration",
+  region: "英国",
+  status: "调查中 · 进口登记已实施",
+  date: "2026.11.19",
+  title: "英国对中国割草机器人启动反倾销调查及进口登记",
+  summary: "英国贸易救济署 11 月 18 日启动 AD0097 调查；政府通知要求海关自 11 月 19 日登记原产中国的相关机器人割草机进口。登记保留未来在法定条件下追溯征税的可能，并非已征税或禁售。",
+  source: "UK Government｜Trade remedies notice 2026/33",
+  sourceUrl: "https://www.gov.uk/government/publications/trade-remedies-notices-robot-lawn-mowers-from-china-anti-dumping/trade-remedies-notice-202633-registration-of-imports-of-robot-lawn-mowers-originating-from-china",
+  points: [
+    "英国贸易救济署在 Husqvarna UK Limited 申请后，于 2026 年 11 月 18 日启动 AD0097 反倾销调查；倾销及损害尚未获得最终认定。",
+    "进口登记自 11 月 19 日实施，涉及原产中国、无需直接人工控制即可割草的电动机器人割草机，也可能包括随整机进口的充电站和导航配件。",
+    "官方列明的英国商品编码为 8433 1110 10；具体产品是否落入范围须按商品描述及申报情况核对。",
+    "若未来实施最终救济，登记货物可能在法定范围内承担追溯税款；目前通知未确定税率，也不构成进口或销售禁令。"
+  ],
+  impact: [
+    "英国进口商及中国制造商需保留原产地、申报编码、入境日期、价格与随货附件的完整记录。",
+    "登记使未来税负存在不确定性，报价、渠道合同和库存计划应区分已发生的登记义务与尚未决定的关税。",
+    "英国 AD0097 与欧盟 AD745 属于独立程序，不应混用调查节点或推断相同税率。"
+  ],
+  actions: [
+    "可能受影响的企业应关注英国贸易救济署 2026 年 12 月 3 日的登记参与期限，并核对 AD0097 官方案卷。",
+    "逐型号核对商品范围、原产地及英国进口批次，保存合同、发票、报关和技术资料。",
+    "为可能的追溯税负设置合同分担与价格调整条款，但在官方决定前不得宣传为已征税。"
+  ]
+});
+
+POLICIES.unshift({
   slug: "us-fcc-husqvarna-conditional-approvals",
   region: "美国",
   status: "已生效 · 特定型号有条件批准",
